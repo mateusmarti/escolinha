@@ -59,6 +59,7 @@ footer {
 }
 .formulario {
     margin: auto;
+    height: 1000px;
 }
 #msg {
     display: none;
@@ -66,4 +67,7 @@ footer {
 .texto {
     margin: auto;
     width: 80%;
+}
+h1 {
+    color: #1746B3;
 }

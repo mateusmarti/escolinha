@@ -96,7 +96,7 @@ function envia(form){
         return false;
     }
 
-    var chk1 = document.form.check.checked;
+    var chk1 = document.form.termos.checked;
     if(chk1 == false){
         alert("Você não aceitou os termos")
         return false
