@@ -47,11 +47,6 @@ function envia(form){
         form.senha.focus();
         return false;
     } 
-    else if(form.nome.value == "") {
-        alert("O Campo nome é obrigatório")
-        form.nome.focus();
-        return false;
-    } 
     else if(form.cpf.value == "") {
         alert("O Campo cpf é obrigatório")
         form.cpf.focus();
